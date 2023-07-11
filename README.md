@@ -37,6 +37,7 @@ Una vez clonado y abierto el proyecto en Visual StudioCode podemos ejecutarlo us
 
 	docker compose -f "docker-compose-php.yml" up -d --build 
 
+Cuando se ejecuta el comando y se levanta en docker la url del proyecto es: http://localhost:8080/index.php
 
 Una vez hayamos terminado de visualizar  o desarrollar podemos ejecutar el siguiente comando para cerrar el proyecto:
 
