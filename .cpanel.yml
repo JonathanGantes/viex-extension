@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=src/
+    - export DEPLOYPATH=/home/viexgnzw/public_html/
     - /bin/cp -R images $DEPLOYPATH
