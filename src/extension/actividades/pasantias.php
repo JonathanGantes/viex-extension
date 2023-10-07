@@ -120,7 +120,7 @@
                            <div class="col-1">
                               <div id="wb_Text7">
                                  <span
-                                    style="color:#000000;font-family:'Roboto';font-weight:900;font-size:24px;"><em>Pasantías</em></span>
+                                    style="color:#000000;font-family:'Roboto';font-weight:900;font-size:24px;"><em>Hola Pasantías</em></span>
                               </div>
                            </div>
                         </div>
